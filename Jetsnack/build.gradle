@@ -25,6 +25,7 @@ buildscript {
     dependencies {
         classpath Libs.androidGradlePlugin
         classpath Libs.Kotlin.gradlePlugin
+        classpath 'com.android.tools.build:gradle:7.0.0-rc01'
     }
 }
 

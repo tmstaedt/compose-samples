@@ -33,8 +33,7 @@
     <fragment
         android:id="@+id/sign_up_fragment"
         android:name="com.example.compose.jetsurvey.signinsignup.SignUpFragment"
-        android:label="Sign up">
-    </fragment>
+        android:label="Sign up"></fragment>
     <fragment
         android:id="@+id/survey_fragment"
         android:name="com.example.compose.jetsurvey.survey.SurveyFragment"
